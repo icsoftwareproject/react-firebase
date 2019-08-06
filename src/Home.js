@@ -16,15 +16,15 @@ function Home({ todos }) {
   return (
     <div className='App'>
       <div className='App-header'>
-        <h2>react-redux-firebase demo</h2>
+        <h2>IC react-firebase demo</h2>
         <img src={logo} className='App-logo' alt='logo' />
       </div>
       <div className='App-todos'>
         <h4>
           Loaded From
           <span className='App-Url'>
-            <a href='https://redux-firebasev3.firebaseio.com/'>
-              redux-firebasev3.firebaseio.com
+            <a href='https://ic-react-firebase.firebaseio.com"/'>
+              ic-react-firebase.firebaseio.com
             </a>
           </span>
         </h4>
